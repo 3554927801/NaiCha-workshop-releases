@@ -1,2 +1,2 @@
 # milk-tea-tavern-releases
-奶茶酒馆公开发布
+奶茶工坊公开发布
